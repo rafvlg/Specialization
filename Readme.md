@@ -22,9 +22,6 @@ __Примеры__
 
 __Решение Задачи:__
 
-Блок схема решения задачи представлена по ссылке ![][logo]
-
-[logo]: [resources/image.png "Logo text"](https://github.com/rafvlg/Specializ
-ation/blob/main/BlockSheme.jpg)
+Блок схема решения задачи представлена по ссылке ![]https://github.com/rafvlg/Specialization/blob/main/BlockSheme.jpg
 
 
