@@ -1,0 +1,15 @@
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\bin\Debug\net7.0\Code.exe
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\bin\Debug\net7.0\Code.deps.json
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\bin\Debug\net7.0\Code.dll
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\bin\Debug\net7.0\Code.pdb
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.csproj.AssemblyReference.cache
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.dll
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\refint\Code.dll
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.pdb
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+C:\Users\Czar_Ivan\Desktop\С#\Specialization\Code\obj\Debug\net7.0\ref\Code.dll
