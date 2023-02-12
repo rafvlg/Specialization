@@ -22,5 +22,22 @@ __Примеры__
 
 __Решение Задачи:__
 
-Блок схема решения задачи представлена по ссылке: C:\Users\Czar_Ivan\Desktop\С#\Specialization\BlockSheme.jpg
+Блок схема решения задачи представлена по ссылке: 
+
+__Код программы реализации задачи: 
+
+string[] firsArray = { "hello", "2", "word", ":-)", "123", "156", "computer scence", "Russia", "Denmark", "Kaz" };
+string str = string.Empty;
+for (int i = 0; i < firsArray.Length - 1; i++)
+{
+    if (firsArray[i].Length <= 3) str = str + firsArray[i] + ",";
+}
+if (firsArray[firsArray.Length - 1].Length <= 3) str = str + firsArray[firsArray.Length - 1];
+string[] secondArr = str.Split(",");
+Console.Write("[");
+for (int i = 0; i < secondArr.Length - 1; i++)
+{
+    Console.Write(secondArr[i] + ", ");
+}
+Console.WriteLine(secondArr[secondArr.Length - 1] + "]");
 
