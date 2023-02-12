@@ -24,6 +24,8 @@ __Решение Задачи:__
 
 Блок схема решения задачи представлена по ссылке ![](https://github.com/rafvlg/Specialization/blob/main/BlockSheme.jpg)
 
+__Код программы реализации задачи__
+
 string[] firsArray = { "hello", "2", "word", ":-)", "123", "156", "computer scence", "Russia", "Denmark", "Kaz" };
 string str = string.Empty;
 for (int i = 0; i < firsArray.Length - 1; i++)
